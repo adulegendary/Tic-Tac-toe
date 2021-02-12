@@ -1,0 +1,2 @@
+D:\doucument for my.cpp\Tic tac toe 2\Debug\Tic tac toe 2.exe
+D:\doucument for my.cpp\Tic tac toe 2\Debug\Tic tac toe 2.pdb
